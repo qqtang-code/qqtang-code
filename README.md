@@ -1,56 +1,181 @@
-## Hey 👋, I'm Quantong Qiu!
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<div align="center">
 
+# Hey 👋, I'm Quantong Qiu
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
+### 🎓 Master's Student | 🤖 AI Researcher | 🔬 LLM Optimization Enthusiast
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on **OpenNLG**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+<p align="center">
+  <a href='https://scholar.google.com.hk/citations?hl=en&pli=1&user=-NrbKG0AAAAJ'>
+    <img src="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/svg/google-scholar.svg" height='30px' style="margin: 0 10px;">
+  </a>
+  <a href='https://qqtang-code.github.io'>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height='30px' style="margin: 0 10px;">
+  </a>
+</p>
 
 <br>
 
-### 🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+</div>
 
-<br>
+---
 
+<table>
+<tr>
+<td width="60%">
 
-### 📊 Github Stats
-<a href='https://github.com/qqtang-code/github-stats-transparent'>
+## 🚀 About Me
 
-![Stats Overview](https://raw.githubusercontent.com/qqtang-code/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/qqtang-code/github-stats-transparent/output/generated/languages.svg)
+I am a **Master's student** at the **Key Laboratory of Data Intelligence and Advanced Computing, Soochow University**, where I have the privilege of working under the guidance of **Professor Juntao Li**. 
 
+My research focuses on the cutting-edge domains of:
+- 🧠 **Efficient inference for Large Language Models (LLMs)**
+- 💾 **KV-cache compression**
+- ⚡ **Sparse attention mechanisms**
+
+I am passionate about advancing the field of AI through innovative computational approaches and optimization techniques.
+
+</td>
+<td width="40%">
+
+<img align="center" alt="Coding GIF" src="techstack.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+## 🎯 Research Interests & Current Work
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 Current Research
+- **Efficient LLM Inference** 
+- **KV-Cache Compression**
+- **Sparse Attention Mechanisms**
+- **Model Optimization**
+
+### 🏫 Academic Background
+- **Soochow University**
+- Key Laboratory of Data Intelligence and Advanced Computing
+- Supervised by **Professor Juntao Li**
+
+</td>
+<td width="50%">
+
+### 🤝 Collaboration & Contact
+- Looking for **AI research collaborations**
+- Interested in **LLM optimization projects**
+- Open to **academic discussions**
+
+### 📚 Learning & Growth
+- Exploring **Large Language Models**
+- Reading **cutting-edge AI papers**
+- Advancing **Deep Learning** techniques
+
+</td>
+</tr>
+</table>
+
+### 📫 Get in Touch
+
+<p align="center">
+  Academic collaborations: <a href="https://scholar.google.com.hk/citations?hl=en&pli=1&user=-NrbKG0AAAAJ">Google Scholar</a> | 
+ Professional network: <a href="https://www.linkedin.com/in/qqtang-code/">LinkedIn</a> | 
+  Resume: <a href="https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing">View CV</a>
+</p>
+
+---
+
+## �️ Tech Stack & Tools
+
+<div align="center">
+
+### 🤖 AI & Machine Learning
+<p>
+<a href="https://pytorch.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45" style="margin: 10px;"/> </a>
+<a href="https://www.tensorflow.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45" style="margin: 10px;"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" style="margin: 10px;"/> </a>
+</p>
+
+### 💻 Development & Tools
+<p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="margin: 10px;"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" style="margin: 10px;"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45" style="margin: 10px;"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" style="margin: 10px;"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" style="margin: 10px;"/> </a>
+</p>
+
+### 📱 Mobile & Other
+<p>
+<a href="https://developer.android.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="45" height="45" style="margin: 10px;"/> </a>
+<a href="https://kotlinlang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45" style="margin: 10px;"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45" style="margin: 10px;"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45" style="margin: 10px;"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45" style="margin: 10px;"/> </a>
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+![qqtang-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqtang-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF)
+
+</td>
+<td width="50%">
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qqtang-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### � LOOM-Scope
+*Advanced AI Research Project*
+
+<a href="https://github.com/LCM-Lab/LOOM-Scope" target="_blank">
+  <img src="projects/LOOM-Scope-logo.png" height="100" alt="LOOM-Scope"/>
 </a>
 
-<br>
+**Cutting-edge research in Large Language Model optimization**
 
-### 🛠️ My Projects
-<a href="https://github.com/LCM-Lab/LOOM-Scope" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+[🔗 Explore Project](https://github.com/LCM-Lab/LOOM-Scope)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Advancing AI through innovative research and optimization"*
+
+<img src="https://komarev.com/ghpvc/?username=qqtang-code&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
+**⭐ Star my repositories if you find them interesting!**
+
+</div>
