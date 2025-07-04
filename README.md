@@ -87,7 +87,7 @@ I am passionate about advancing the field of AI through innovative computational
 
 ---
 
-## �️ Tech Stack & Tools
+## 🔬 Tech Stack & Tools
 
 <div align="center">
 
