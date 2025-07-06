@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href='https://scholar.google.com.hk/citations?hl=en&pli=1&user=-NrbKG0AAAAJ'>
-    <img src="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/svg/google-scholar.svg" height='30px' style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/svg/google-scholar.svg" height='30px' weight='30px' style="margin: 0 10px;">
   </a>
   <a href='https://qqtang-code.github.io'>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height='30px' style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height='30px' weight='30px' style="margin: 0 10px;">
   </a>
 </p>
 
