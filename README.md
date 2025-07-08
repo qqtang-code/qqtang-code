@@ -150,7 +150,7 @@ I am passionate about advancing the field of AI through innovative computational
 <tr>
 <td align="center" width="100%">
 
-### � LOOM-Scope
+### 🏫 LOOM-Scope
 *Advanced AI Research Project*
 
 <a href="https://github.com/LCM-Lab/LOOM-Scope" target="_blank">
