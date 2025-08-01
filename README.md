@@ -129,16 +129,17 @@ I am passionate about advancing the field of AI through innovative computational
 <tr>
 <td width="50%">
 
-![qqtang-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqtang-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF)
+![qqtang-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqtang-code&show_icons=true&theme=buefy&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF)
 
 </td>
 <td width="50%">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qqtang-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qqtang-code&layout=compact&theme=buefy&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)
 
 </td>
 </tr>
 </table>
+
 
 </div>
 
