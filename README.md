@@ -185,20 +185,25 @@ I am passionate about advancing the field of AI through innovative computational
 
 ---
 
-
+<div align="center">
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=qqtang-code&show_icons=true&theme=buefy&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqtang-code&layout=compact&theme=buefy&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=qqtang-code&theme=buefy&hide_border=true&background=0D1117&ring=00D4AA&currStreakLabel=00D4AA&fire=00D4AA" width="80%" />
 
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qqtang-code&theme=buefy&hide_border=true&background=0D1117&ring=00D4AA&currStreakLabel=00D4AA" height="165" />
+
+<p>
+  <a href="https://github.com/qqtang-code">
+    <img src="https://img.shields.io/github/followers/qqtang-code?style=social" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/qqtang-code">
+    <img src="https://img.shields.io/github/stars/qqtang-code?style=social" alt="GitHub Stars" />
+  </a>
+</p>
 
 </div>
-
 
 ---
 
