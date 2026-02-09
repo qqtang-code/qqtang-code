@@ -1,183 +1,118 @@
 <div align="center">
 
-# Hey 👋, I'm Quantong Qiu
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B,+I'm+Quantong+Qiu;Master's+Student+@+Soochow+Univ.;AI+Researcher+%7C+LLM+Optimization;Focus+on+Efficient+Inference" alt="Typing SVG" />
 
-### 🎓 Master's Student | 🤖 AI Researcher | 🔬 LLM Optimization Enthusiast
+<h3 align="center">🎓 Master's Student | 🤖 AI Researcher | 🔬 LLM Optimization Enthusiast</h3>
 
 <p align="center">
-<!--   <a href='https://scholar.google.com.hk/citations?hl=en&pli=1&user=-NrbKG0AAAAJ'>
-    <img src="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/svg/google-scholar.svg" height='30px' weight='30px' style="margin: 0 10px;">
-  </a> -->
-<!--   <a href='https://qqtang-code.github.io'>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height='30px' weight='30px' style="margin: 0 10px;">
-  </a> -->
+  <a href="https://qqtang-code.github.io/">
+    <img src="https://img.shields.io/badge/Website-Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://scholar.google.com.hk/citations?hl=en&pli=1&user=-NrbKG0AAAAJ">
+    <img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" />
+  </a>
+  <a href="https://www.linkedin.com/in/qqtang-code/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View_CV-FF5722?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
+  </a>
+  <a href="mailto:你的邮箱地址@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
 
 </div>
 
 ---
 
 <table>
-<tr>
-<td width="60%">
+  <tr>
+    <td width="60%" valign="top">
 
 ## 🚀 About Me
 
-Please view my homepage: <a href='https://qqtang-code.github.io/'>QQTang</a>
+I am a **Master's student** at the **Key Laboratory of Data Intelligence and Advanced Computing, Soochow University**, actively researching under the supervision of **Professor Juntao Li**.
 
-I am a **Master's student** at the **Key Laboratory of Data Intelligence and Advanced Computing, Soochow University**, where I have the privilege of working under the guidance of **Professor Juntao Li**. 
+My passion lies in squeezing performance out of large models. I focus on:
 
-My research focuses on the cutting-edge domains of:
-- 🧠 **Efficient inference for Large Language Models (LLMs)**
-- 💾 **KV-cache compression**
-- ⚡ **Sparse attention mechanisms**
+- 🧠 **Efficient LLM Inference**: Making models faster and lighter.
+- 💾 **KV-Cache Compression**: Optimizing memory usage.
+- ⚡ **Sparse Attention Mechanisms**: Reducing computational complexity.
 
-I am passionate about advancing the field of AI through innovative computational approaches and optimization techniques.
+> *"Advancing the field of AI through innovative computational approaches."*
 
-</td>
-<td width="40%">
-
-<img align="center" alt="Coding GIF" src="techstack.gif" width="100%"/>
-
-</td>
-</tr>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ4eHM3aXI1bG51bWJ4Z251bWJ4Z251bWJ4Z251bWJ4Z251bWJ4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVThqceKUBFknv/giphy.gif" width="80%" alt="AI Animation"/>
+    </td>
+  </tr>
 </table>
 
-## 🎯 Research Interests & Current Work
+## 🛠️ Arsenal & Interests
 
 <table>
-<tr>
-<td width="50%">
-
-### 🔬 Current Research
-- **Efficient LLM Inference** 
-- **KV-Cache Compression**
-- **Sparse Attention Mechanisms**
-- **Model Optimization**
-
-### 🏫 Academic Background
-- **Soochow University**
-- Key Laboratory of Data Intelligence and Advanced Computing
-- Supervised by **Professor Juntao Li**
-
-</td>
-<td width="50%">
-
-### 🤝 Collaboration & Contact
-- Looking for **AI research collaborations**
-- Interested in **LLM optimization projects**
-- Open to **academic discussions**
-
-### 📚 Learning & Growth
-- Exploring **Large Language Models**
-- Reading **cutting-edge AI papers**
-- Advancing **Deep Learning** techniques
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔬 Research Focus</h3>
+      <ul>
+        <li><b>LLM Optimization</b> (Pruning, Quantization)</li>
+        <li><b>KV-Cache Compression</b></li>
+        <li><b>Sparse Attention</b></li>
+        <li><b>Deep Learning Frameworks</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💻 Tech Stack</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
+        <br/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25" />
+      </div>
+    </td>
+  </tr>
 </table>
-
-### 📫 Get in Touch
-
-<p align="center">
-  Academic collaborations: <a href="https://scholar.google.com.hk/citations?hl=en&pli=1&user=-NrbKG0AAAAJ">Google Scholar</a> | 
- Professional network: <a href="https://www.linkedin.com/in/qqtang-code/">LinkedIn</a> | 
-  Resume: <a href="https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing">View CV</a>
-</p>
-
----
-
-## 🔬 Tech Stack & Tools
-
-<div align="center">
-
-### 🤖 AI & Machine Learning
-<p>
-<a href="https://pytorch.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45" style="margin: 10px;"/> </a>
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45" style="margin: 10px;"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" style="margin: 10px;"/> </a>
-</p>
-
-### 💻 Development & Tools
-<p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="margin: 10px;"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" style="margin: 10px;"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45" style="margin: 10px;"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" style="margin: 10px;"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" style="margin: 10px;"/> </a>
-</p>
-
-### 📱 Mobile & Other
-<p>
-<a href="https://developer.android.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="45" height="45" style="margin: 10px;"/> </a>
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45" style="margin: 10px;"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45" style="margin: 10px;"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45" style="margin: 10px;"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45" style="margin: 10px;"/> </a>
-</p>
-
-</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-![qqtang-code's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqtang-code&show_icons=true&theme=buefy&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF)
-
-</td>
-<td width="50%">
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qqtang-code&layout=compact&theme=buefy&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF)
-
-</td>
-</tr>
-</table>
-
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=qqtang-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqtang-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Featured Project
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="100%">
-
-### 🏫 LOOM-Scope
-*Advanced AI Research Project*
-
-<a href="https://github.com/LCM-Lab/LOOM-Scope" target="_blank">
-  <img src="projects/LOOM-Scope-logo.png" height="100" alt="LOOM-Scope"/>
-</a>
-
-**Cutting-edge research in Large Language Model optimization**
-
-[🔗 Explore Project](https://github.com/LCM-Lab/LOOM-Scope)
-
-</td>
-</tr>
-</table>
+| **LOOM-Scope** |
+| :---: |
+| <a href="https://github.com/LCM-Lab/LOOM-Scope"><img src="projects/LOOM-Scope-logo.png" width="100" alt="LOOM Scope Logo" onerror="this.src='https://cdn-icons-png.flaticon.com/512/10061/10061765.png'"/></a> |
+| **Advanced AI Research Project** |
+| 🚀 *Cutting-edge research in Large Language Model optimization* |
+| [**Explore Repository**](https://github.com/LCM-Lab/LOOM-Scope) |
 
 </div>
 
----
+<br/>
 
 <div align="center">
-
-### 💭 *"Advancing AI through innovative research and optimization"*
-
-<img src="https://komarev.com/ghpvc/?username=qqtang-code&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-
-**⭐ Star my repositories if you find them interesting!**
-
+  <img src="https://komarev.com/ghpvc/?username=qqtang-code&label=Profile%20Views&color=36BCF7&style=flat-square" alt="profile views" />
+  <br/>
+  <sub><i>"Talk is cheap, show me the code."</i></sub>
 </div>
