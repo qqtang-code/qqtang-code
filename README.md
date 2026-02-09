@@ -25,7 +25,6 @@
 </div>
 
 ---
-
 ---
 
 
@@ -332,25 +331,27 @@ I am passionate about advancing the field of AI through innovative computational
 
 </div>
 
+
+
 ---
 
-## 🏆 Featured Project
+
 
 <div align="center">
 
-| **LOOM-Scope** |
-| :---: |
-| <a href="https://github.com/LCM-Lab/LOOM-Scope"><img src="projects/LOOM-Scope-logo.png" width="100" alt="LOOM Scope Logo" onerror="this.src='https://cdn-icons-png.flaticon.com/512/10061/10061765.png'"/></a> |
-| **Advanced AI Research Project** |
-| 🚀 *Cutting-edge research in Large Language Model optimization* |
-| [**Explore Repository**](https://github.com/LCM-Lab/LOOM-Scope) |
+
+
+### 💭 *"Advancing AI through innovative research and optimization"*
+
+
+
+<img src="https://komarev.com/ghpvc/?username=qqtang-code&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
+
+
+**⭐ Star my repositories if you find them interesting!**
+
+
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=qqtang-code&label=Profile%20Views&color=36BCF7&style=flat-square" alt="profile views" />
-  <br/>
-  <sub><i>"Talk is cheap, show me the code."</i></sub>
-</div>
