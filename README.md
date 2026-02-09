@@ -168,67 +168,19 @@ I am passionate about advancing the field of AI through innovative computational
 ---
 
 
-
-## 🔬 Tech Stack & Tools
-
-
-
 <div align="center">
 
+## 🔬 Tech Stack
 
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python" />
+<br>
 
-### 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,git" />
+<br>
 
-<p>
-
-<a href="https://pytorch.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45" style="margin: 10px;"/> </a>
-
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45" style="margin: 10px;"/> </a>
-
-<a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" style="margin: 10px;"/> </a>
-
-</p>
-
-
-
-### 💻 Development & Tools
-
-<p>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="margin: 10px;"/> </a>
-
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" style="margin: 10px;"/> </a>
-
-<a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45" style="margin: 10px;"/> </a>
-
-<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" style="margin: 10px;"/> </a>
-
-<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" style="margin: 10px;"/> </a>
-
-</p>
-
-
-
-### 📱 Mobile & Other
-
-<p>
-
-<a href="https://developer.android.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="45" height="45" style="margin: 10px;"/> </a>
-
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45" style="margin: 10px;"/> </a>
-
-<a href="https://www.java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45" style="margin: 10px;"/> </a>
-
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45" style="margin: 10px;"/> </a>
-
-<a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45" style="margin: 10px;"/> </a>
-
-</p>
-
-
+<img src="https://skillicons.dev/icons?i=android,kotlin,java,firebase,figma" />
 
 </div>
-
 
 
 ---
