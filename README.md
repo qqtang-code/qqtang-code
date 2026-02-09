@@ -191,17 +191,15 @@ I am passionate about advancing the field of AI through innovative computational
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=qqtang-code&theme=buefy&hide_border=true&background=0D1117&ring=00D4AA&currStreakLabel=00D4AA&fire=00D4AA" width="80%" />
 
-<br/>
+</div>
 
-<p>
-  <a href="https://github.com/qqtang-code">
-    <img src="https://img.shields.io/github/followers/qqtang-code?style=social" alt="GitHub Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/qqtang-code">
-    <img src="https://img.shields.io/github/stars/qqtang-code?style=social" alt="GitHub Stars" />
-  </a>
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qqtang-code/qqtang-code/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qqtang-code/qqtang-code/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qqtang-code/qqtang-code/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
