@@ -13,8 +13,6 @@ on:
     branches:
     - main
     - master
-  
-  
 
 jobs:
   generate:
@@ -33,7 +31,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          # 修改为 GitHub 默认提供的 Token，无需手动设置
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       # 将生成的 SVG 推送到 output 分支
       - name: push github-contribution-grid-snake.svg to the output branch
@@ -42,4 +41,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          # 修改为 GitHub 默认提供的 Token
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
