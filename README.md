@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/qqtang-code/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1_BAAUtyllaRHi40zE2SOz-5jx_vcePyK/view">
     <img src="https://img.shields.io/badge/Resume-View_CV-FF5722?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
   </a>
   <a href="mailto:q_qtang@163.com">
