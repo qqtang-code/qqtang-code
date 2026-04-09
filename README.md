@@ -167,26 +167,6 @@ I am passionate about advancing the field of AI through innovative computational
 
 ---
 
-
-<div align="center">
-
-## 🔬 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python" />
-<br>
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,git" />
-<br>
-
-<img src="https://skillicons.dev/icons?i=android,kotlin,java,firebase,figma" />
-
-</div>
-
-
----
-
-<div align="center">
-
 ## 📊 GitHub Analytics
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=qqtang-code&theme=buefy&hide_border=true&background=0D1117&ring=00D4AA&currStreakLabel=00D4AA&fire=00D4AA" width="80%" />
