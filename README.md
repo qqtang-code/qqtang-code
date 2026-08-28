@@ -25,9 +25,6 @@
 </div>
 
 ---
----
-
-
 
 <table>
 
@@ -35,19 +32,11 @@
 
 <td width="60%">
 
-
-
 ## 🚀 About Me
 
+Please view my homepage: <a href="https://qqtang-code.github.io/">QQTang</a>
 
-
-Please view my homepage: <a href='https://qqtang-code.github.io/'>QQTang</a>
-
-
-
-I am a **Master's student** at the **Key Laboratory of Data Intelligence and Advanced Computing, Soochow University**, where I have the privilege of working under the guidance of **Professor Juntao Li**. 
-
-
+I am a **Master's student** at the **Key Laboratory of Data Intelligence and Advanced Computing, Soochow University**, where I have the privilege of working under the guidance of **Professor Juntao Li**.
 
 My research focuses on the cutting-edge domains of:
 
@@ -57,21 +46,13 @@ My research focuses on the cutting-edge domains of:
 
 - ⚡ **Sparse attention mechanisms**
 
-
-
 I am passionate about advancing the field of AI through innovative computational approaches and optimization techniques.
-
-
 
 </td>
 
 <td width="40%">
 
-
-
 <img align="center" alt="Coding GIF" src="techstack.gif" width="100%"/>
-
-
 
 </td>
 
@@ -79,11 +60,7 @@ I am passionate about advancing the field of AI through innovative computational
 
 </table>
 
-
-
 ## 🎯 Research Interests & Current Work
-
-
 
 <table>
 
@@ -91,19 +68,15 @@ I am passionate about advancing the field of AI through innovative computational
 
 <td width="50%">
 
-
-
 ### 🔬 Current Research
 
-- **Efficient LLM Inference** 
+- **Efficient LLM Inference**
 
 - **KV-Cache Compression**
 
 - **Sparse Attention Mechanisms**
 
 - **Model Optimization**
-
-
 
 ### 🏫 Academic Background
 
@@ -113,13 +86,9 @@ I am passionate about advancing the field of AI through innovative computational
 
 - Supervised by **Professor Juntao Li**
 
-
-
 </td>
 
 <td width="50%">
-
-
 
 ### 🤝 Collaboration & Contact
 
@@ -129,8 +98,6 @@ I am passionate about advancing the field of AI through innovative computational
 
 - Open to **academic discussions**
 
-
-
 ### 📚 Learning & Growth
 
 - Exploring **Large Language Models**
@@ -139,33 +106,27 @@ I am passionate about advancing the field of AI through innovative computational
 
 - Advancing **Deep Learning** techniques
 
-
-
 </td>
 
 </tr>
 
 </table>
 
-
-
 ### 📫 Get in Touch
-
-
 
 <p align="center">
 
-  Academic collaborations: <a href="https://scholar.google.com.hk/citations?hl=en&pli=1&user=-NrbKG0AAAAJ">Google Scholar</a> | 
+  Academic collaborations: <a href="https://scholar.google.com.hk/citations?hl=en&pli=1&user=-NrbKG0AAAAJ">Google Scholar</a> |
 
- Professional network: <a href="https://www.linkedin.com/in/qqtang-code/">LinkedIn</a> | 
+ Professional network: <a href="https://www.linkedin.com/in/qqtang-code/">LinkedIn</a> |
 
   Resume: <a href="https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing">View CV</a>
 
 </p>
 
-
-
 ---
+
+<div align="center">
 
 ## 📊 GitHub Analytics
 
@@ -185,15 +146,9 @@ I am passionate about advancing the field of AI through innovative computational
 
 ---
 
-
-
 ## 🚀 Featured Projects
 
-
-
 <div align="center">
-
-
 
 <table>
 
@@ -201,13 +156,9 @@ I am passionate about advancing the field of AI through innovative computational
 
 <td align="center" width="100%">
 
-
-
 ### 🏫 LOOM-Scope
 
 *Advanced AI Research Project*
-
-
 
 <a href="https://github.com/LCM-Lab/LOOM-Scope" target="_blank">
 
@@ -215,15 +166,9 @@ I am passionate about advancing the field of AI through innovative computational
 
 </a>
 
-
-
 **Cutting-edge research in Large Language Model optimization**
 
-
-
 [🔗 Explore Project](https://github.com/LCM-Lab/LOOM-Scope)
-
-
 
 </td>
 
@@ -231,31 +176,17 @@ I am passionate about advancing the field of AI through innovative computational
 
 </table>
 
-
-
 </div>
-
-
 
 ---
 
-
-
 <div align="center">
-
-
 
 ### 💭 *"Advancing AI through innovative research and optimization"*
 
-
-
 <img src="https://komarev.com/ghpvc/?username=qqtang-code&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-
-
 **⭐ Star my repositories if you find them interesting!**
-
-
 
 </div>
 
