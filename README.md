@@ -23,10 +23,10 @@ My work focuses on **efficient inference for large language models** — from KV
 
 ## Research
 
-<img src="https://img.shields.io/badge/Efficient%20LLM%20Inference-30363D?style=flat-square" alt="Efficient LLM Inference" />
-<img src="https://img.shields.io/badge/KV--Cache%20Compression-30363D?style=flat-square" alt="KV-Cache Compression" />
-<img src="https://img.shields.io/badge/Sparse%20Attention-30363D?style=flat-square" alt="Sparse Attention" />
-<img src="https://img.shields.io/badge/Model%20Optimization-00D4AA?style=flat-square" alt="Model Optimization" />
+- 🧠 **Efficient LLM Inference** — pushing the limits of fast, economical LLM serving
+- 💾 **KV-Cache Compression** — shrinking the memory footprint of long-context inference
+- ⚡ **Sparse Attention** — focusing computation on what matters most
+- 🔬 **Model Optimization** — keeping models lean without sacrificing quality
 
 </div>
 
