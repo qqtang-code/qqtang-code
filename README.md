@@ -29,6 +29,8 @@
 
 <hr style="height: 1px; border: none; background: linear-gradient(90deg, transparent, #30363D 25%, #30363D 75%, transparent); margin: 36px 0;" />
 
+<div style="text-align: left;">
+
 <h2 style="color: #E6EDF3; font-weight: 600; letter-spacing: 0.04em; border-bottom: 1px solid #21262D; padding-bottom: 10px;">About</h2>
 
 I am a Master's student at the **Key Laboratory of Data Intelligence and Advanced Computing, Soochow University**, supervised by **Prof. Juntao Li**.
@@ -41,6 +43,8 @@ My work focuses on <b><span style="color: #00D4AA">efficient inference for large
 <span style="display: inline-block; border: 1px solid #30363D; background: #161B22; color: #C9D1D9; border-radius: 999px; padding: 6px 16px; margin: 4px;">KV-Cache Compression</span>
 <span style="display: inline-block; border: 1px solid #30363D; background: #161B22; color: #C9D1D9; border-radius: 999px; padding: 6px 16px; margin: 4px;">Sparse Attention</span>
 <span style="display: inline-block; border: 1px solid #21262D; background: transparent; color: #8B949E; border-radius: 999px; padding: 6px 16px; margin: 4px;">Model Optimization</span>
+
+</div>
 
 <hr style="height: 1px; border: none; background: linear-gradient(90deg, transparent, #30363D 25%, #30363D 75%, transparent); margin: 36px 0;" />
 
